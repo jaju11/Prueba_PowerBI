@@ -1,24 +1,33 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
+    
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": https://app.powerbi.com/groups/me/reports/43dc693c-619f-4f72-849c-c8ef7b2a403d/ReportSection278a2233b82ea6aa70c5?chromeless=1,
+      "duration": 5,
+      "tabReloadIntervalSeconds": 50
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": https://app.powerbi.com/groups/me/reports/43dc693c-619f-4f72-849c-c8ef7b2a403d/ReportSection07e7a7f7b7d0e1bd347c?chromeless=1,
+      "duration": 5,
+      "tabReloadIntervalSeconds": 50
     },
+
+     {
+      "url": https://app.powerbi.com/groups/me/reports/43dc693c-619f-4f72-849c-c8ef7b2a403d/ReportSection03f61f7b32a9793c9e06?chromeless=1,
+      "duration": 5,
+      "tabReloadIntervalSeconds": 50
+    },
+
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": https://app.powerbi.com/groups/me/reports/43dc693c-619f-4f72-849c-c8ef7b2a403d/ReportSection10d101a72909603d8c5e?chromeless=1,
+      "duration": 5,
+      "tabReloadIntervalSeconds": 50
     }
+
   ]
 }
