@@ -2,7 +2,7 @@
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
-  "lazyLoadTabs": true,
+  "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
     
